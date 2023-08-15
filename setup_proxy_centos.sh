@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # First make the script executable and run it:
-# chmod +x setup_proxy.sh
-# ./setup_proxy.sh
+# chmod +x setup_proxy_centos.sh
+# ./setup_proxy_centos.sh
 
 # Set proxy environment variables in /etc/environment
 echo 'http_proxy="http://10.0.0.5:3128/"' | sudo tee -a /etc/environment
