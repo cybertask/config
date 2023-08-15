@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # First make the script executable and run it:
-# chmod +x setup_proxy.sh
-# ./setup_proxy.sh
+# chmod +x setup_proxy_ubuntu.sh
+# ./setup_proxy_ubuntu.sh
 
 
 # Set proxy environment variables in /etc/environment
